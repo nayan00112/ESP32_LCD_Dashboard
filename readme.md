@@ -1,4 +1,4 @@
-**Introduction**
+# Introduction
 
 In today's technology-driven world, real-time monitoring and error resolution have become essential aspects of any system's operation. Ensuring seamless and efficient operation requires immediate identification and resolution of errors. The integration of an ESP32 microcontroller with an I2C LCD display, along with AI-powered software tools, presents an innovative approach to addressing this need.
 
