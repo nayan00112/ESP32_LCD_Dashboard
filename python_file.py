@@ -3,6 +3,7 @@ import google.generativeai as genai
 
 import requests
 
+# https://ai.google.dev/gemini-api/docs/quickstart
 genai.configure(api_key="YOUR_API_KEY")  # Replace with your actual API key
 model = genai.GenerativeModel('gemini-pro')
 
