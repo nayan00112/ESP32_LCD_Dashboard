@@ -98,17 +98,6 @@ void handle_NotFound() {
   server.send(404, "text/plain", "Not found");
 }
 
-// void textDisp(String s, int u, int v) {
-//   lcd.clear();
-//   lcd.setCursor(u, v);
-//   if (s != "") {
-//     lcd.print(s);
-//   } else {
-//     lcd.print("Empty Value");
-//   }
-//   delay(1000);
-// }
-
 void textDisp(String s, int u, int v) {
   lcd.clear();
   lcd.setCursor(u, v);
